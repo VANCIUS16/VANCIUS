@@ -1,0 +1,70 @@
+.bg-light {
+    background-color: #034292 !important;
+}
+
+.padding-menu {
+    padding-top: 60px; padding-bottom: 15px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.sye-color{
+	background-color: #034292 !important;	
+}
+
+.sye-color-dark{
+  background-color: #021231 !important; 
+}
+
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+.btn-sye {
+    color: #fff;
+    background-color: #007cb0;
+    border-color: #007cb0;
+}
+
+.btn-sye:hover, .btn-sye:focus, .btn-sye:active, .btn-sye.active, .open>.dropdown-toggle.btn-sye {
+    color: #fff;
+    background-color: #034292;
+    border-color: #034292; /*set the color you want here*/
+}
+
+/*.dropdown:hover>.dropdown-menu {
+  display: block;
+}*/
+
+.top{
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: #fff;
+  background-color: #007cb0;
+  border-color: #007cb0;
+  padding: 20px;
+  z-index: 999;
+}
+
+.clear-values{
+  display: none;
+}

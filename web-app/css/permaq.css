@@ -1,0 +1,183 @@
+.labelwhite {
+  color: #FFFFFF;
+}
+
+.blueback {
+  background-color: rgb(3,66,146);
+}
+
+.alingright{
+	float: right;
+}
+
+.alingleft{
+	float: left;
+}
+
+.imglogo{
+	margin-left: 500px;
+	margin-right: auto;
+
+}
+
+.padding1{
+	padding-left:1%;
+}
+
+.textWhite{
+	text-decoration-color: #FFFFFF;
+}
+
+body, html{
+	margin:0; 
+	padding:0;
+}
+.menu{ 
+	height:80px;
+	width:100%;
+	color:white;
+	text-align:center
+}
+.wrapper{ 
+	height:2000px;
+	width:100%;
+	padding-top:20px
+}
+ 
+.fixed{
+	position:fixed;
+	top:0;
+}
+
+/*********/
+
+
+
+.header{
+	position: fixed;
+	width: 100%;
+	height: 70px;
+}
+
+.TextBoldC{
+	text-align:center;
+	color: #020e07;
+}
+.TextBoldL{
+	text-align:left;
+	color: #020e07;
+}
+.TextBoldR{
+	text-align:right;
+	color: #020e07;
+}
+
+.TextSize0{
+	font-size: 12px;
+}
+
+.TextSize1{
+	font-size: 15px;
+}
+
+
+.TextSize2{
+	font-size: 17px;
+}
+
+.TextSize3{
+	font-size: 19px;
+}
+
+.TextSize4{
+	font-size: 20px;
+}
+
+.TextSize5{
+	font-size: 30px;
+}
+
+.texto-borde {
+  -webkit-text-stroke: 2px black;
+  color: #FFFFFF; 
+}
+.texto-borde2 {
+	font-size: 30px;
+  -webkit-text-stroke: 1px black;
+  color: #FFFFFF; 
+}
+
+.left{
+	position: left;
+}
+
+.footer{
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	padding: 70px 0;
+	box-sizing: border-box;
+}
+
+.inner_footer{
+	display: block;
+	margin: 0 auto;
+	width: 110px;
+	height: 100%
+}
+
+.inner_footer .logo_container{
+	width: 35%;
+	float: left;
+	height: 100%;
+	display: block;
+}
+
+.inner_footer .logo_container img{
+	width: 65px;
+	height: auto;
+}
+
+.inner_footer .footer_third{
+	width: calc(21% - 20px);
+	margin-right: 10px;
+	float: left;
+	height: 100%;
+}
+
+.inner_footer .footer_third:last-child{
+	margin-right: 0;
+}
+
+/* Welcome_message.php
+<!-- <a class="btnbox" href="<?echo base_url()?>consumibles">
+        <div class="cols3 borderbtn">
+            <img class="imgloader itemImg" src="<?php echo base_url();?>web-app/img/nav/syerib.png" data-alignment data-portrait/>
+            <h3>CONSUMIBLES</h3>
+            <span class="txt"> 
+                 
+                Soluciones y Etiquedas, ofrece innovación y desempeño en código de barras con especialidad en impresión de Etiquetas
+                para negocio.
+               
+                Los mas de 10 años de experiencia en el medio nos colocan como lideres en el mercado, ofreciendo etiquetas y ribbons
+                para todo tipo de ambientes y aplicaciones, tales como: etiquetas de papel, poliéster, Kapton, BOPP, Poliéster,
+                Viniles, Nylon, Cartulinas, etiquetas de seguridad etc.<br><br>
+                SYE ofrece una variedad de ribbons de diferentes formulaciones para imprimir en distintos tipos de etiquetas así
+                como para diferentes aplicaciones y para la mayoría de los modelos de impresoras que existen en el mercado: CAB, ZEBRA,
+                DATAMAX, SATO, INTERMEC, TSC, y alugnas otras mas, dichas formulaciones están compuestas por:<br><br>
+               
+                <ul>
+                    <li>Ribbon de Cera</li>
+                    <li>Ribbon de Cera/Resina</li>
+                    <li>Ribbon de Resina</li>
+                    <li>Ribbon de Resina especial para Textiles</li>
+                    <li>Ribbon de Resina de Alto desempeño</li>
+                    <li>Ribbon de Resina Ultravioleta (Seguridad)</li>
+                    <li>Ribbon de Colores y Metálicos</li>
+                </ul>
+                <br/>
+                
+            </span>                                                
+        </div>
+    </a> -->
+    */
