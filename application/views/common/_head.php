@@ -5,7 +5,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html> <!--<![endif]-->
 
 <head>
-	<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+	<!--<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
     <meta name="viewport" content="width=device-width" initial-scale="1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" chrome="1">
     <meta name="author" content="SYE DECODIFICACIONES">
@@ -17,13 +17,13 @@
     <meta name="keywords" content="etiquetas, codigos de barra, rfid, RFID, impresoras, ZEBRA, zebra, Decodificaciones, software, html, css, productos, servicios, soporte, contacto, nosotros, sye, SYE">
     <meta name="description" content="Sye Decodificaciones proporciona servicios, improseoras, etiquetas, soporte , software y un acompañamiento en el desarrollo de tu empresa.">
     <meta name="google" content="nositelinkssearchbox">
-    <meta name="googlebot" content="nosnippet">
+    <meta name="googlebot" content="nosnippet">-->
 
     <?php if(!isset($title)){
-        $title = 'SYE DECODIFICACIONES';
+        $title = 'VANCIUS´S MOVIES';
     }?>
     <title><?php echo $title;?></title>
-    <link rel="shortcut icon" href="web-app/img/nav/syeico.ico" />
+    <link rel="shortcut icon" href="web-app/img/ico/kitsune-icon.jpg" />
     <link rel="stylesheet" type="text/css" media="screen" href="<?php echo base_url();?>/web-app/css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" media="all" id='camera-css' href="<?php echo base_url();?>web-app/css/sye-theme.css" />
     <link rel="stylesheet" type="text/css" media="all" id='camera-css' href="<?php echo base_url();?>web-app/css/camera.css" />

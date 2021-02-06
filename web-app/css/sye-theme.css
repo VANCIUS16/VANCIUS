@@ -1,5 +1,5 @@
 .bg-light {
-    background-color: #034292 !important;
+    background-color:  #651200 !important;
 }
 
 .padding-menu {
@@ -12,14 +12,12 @@
 }
 
 .sye-color{
-	background-color: #034292 !important;	
+	background-color:  #651200 !important;	
 }
 
 .sye-color-dark{
-  background-color: #021231 !important; 
+  background-color:  #651200  !important; 
 }
-
-
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -38,17 +36,16 @@
 }
 
 .btn-sye {
-    color: #fff;
-    background-color: #007cb0;
-    border-color: #007cb0;
+    color: #000000;
+    background-color: #a40000;
+    border-color: #a40000;
 }
 
 .btn-sye:hover, .btn-sye:focus, .btn-sye:active, .btn-sye.active, .open>.dropdown-toggle.btn-sye {
-    color: #fff;
-    background-color: #034292;
-    border-color: #034292; /*set the color you want here*/
+    color: #000000;
+    background-color: #490d00;
+    border-color:  #bb2100; /*set the color you want here*/
 }
-
 /*.dropdown:hover>.dropdown-menu {
   display: block;
 }*/
@@ -59,8 +56,8 @@
   bottom: 20px;
   right: 20px;
   color: #fff;
-  background-color: #007cb0;
-  border-color: #007cb0;
+  background-color: #bb2100;
+  border-color: #bb2100;
   padding: 20px;
   z-index: 999;
 }
@@ -68,3 +65,63 @@
 .clear-values{
   display: none;
 }
+
+.mainColor{
+  background-color: : #bb2100
+  color: white
+}
+/*=========================================================================================================*/
+/*#carrusel{
+  float:left; 
+  width:588px; 
+  overflow:hidden; 
+  height:100px; 
+  position:relative; 
+  margin-top:20px;
+}
+
+#carrusel .izquierda_flecha
+{
+  position:absolute; 
+  left:10px; 
+  z-index:1; 
+  top:50%; 
+  margin-top:-9px;
+}
+
+#carrusel .derecha_flecha
+{
+  position:absolute; 
+  right:10px; 
+  z-index:1; 
+  top:50%; 
+  margin-top:-9px;
+}
+
+.carrusel
+{
+  width:4000px;
+  left:0px; 
+  position:absolute; 
+  z-index:0
+}
+
+.carrusel>div{
+    float: left;
+    height: 100px;
+    margin-right: 5px;
+    width: 195px;
+    text-align:center;
+}
+
+.carrusel .img_carrusel{
+  cursor:pointer;
+}
+
+#content 
+{
+    float:left;
+    width:600px;
+    margin-bottom:40px;
+    margin:0px auto;
+}*/
